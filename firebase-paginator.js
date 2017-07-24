@@ -1,5 +1,8 @@
 var isBrowser = typeof global != 'object' || typeof global.process != 'object';
 
+//In ReactJS isBrowser is true, and instand we need as object
+isBrowser=false;
+
 function FirebasePaginator(ref, defaults) {
   var paginator = this;
   var defaults = defaults || {};
