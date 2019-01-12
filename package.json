@@ -1,5 +1,5 @@
 {
-  "name": "firebase-paginator",
+  "name": "mobidonia-firebase-paginator",
   "version": "1.1.1",
   "description": "Pagination for Firebase",
   "main": "firebase-paginator.js",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deltaepsilon/firebase-paginator.git"
+    "url": "https://github.com/mobidonia/firebase-paginator.git"
   },
   "keywords": [
     "firebase",
     "pagination"
   ],
-  "author": "Chris Esplin <chris@quiver.is>",
+  "author": "Daniel Dimov <daniel@mobidonia.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deltaepsilon/firebase-paginator/issues"
+    "url": "https://github.com/mobidonia/firebase-paginator/issues"
   },
-  "homepage": "https://github.com/deltaepsilon/firebase-paginator",
+  "homepage": "https://github.com/mobidonia/firebase-paginator",
   "dependencies": {
     "axios": "^0.13.1",
     "firebase-admin": "^4.2.1"
